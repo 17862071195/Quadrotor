@@ -1,0 +1,16 @@
+.\obj\jy61.o: ..\Source\Drive\JY61.c
+.\obj\jy61.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\obj\jy61.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\obj\jy61.o: ..\Source\STM32F10xLib\M3\stm32f10x.h
+.\obj\jy61.o: ..\Source\STM32F10xLib\M3\core_cm3.h
+.\obj\jy61.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\jy61.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h
+.\obj\jy61.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h
+.\obj\jy61.o: ..\Source\STM32F10xLib\M3\system_stm32f10x.h
+.\obj\jy61.o: ..\Source\STM32F10xLib\M3\stm32f10x_conf.h
+.\obj\jy61.o: ..\Source\STM32F10xLib\inc\stm32f10x_gpio.h
+.\obj\jy61.o: ..\Source\STM32F10xLib\inc\stm32f10x_usart.h
+.\obj\jy61.o: ..\Source\STM32F10xLib\inc\stm32f10x_rcc.h
+.\obj\jy61.o: ..\Source\STM32F10xLib\inc\misc.h
+.\obj\jy61.o: ..\Source\Drive\jy61.h
+.\obj\jy61.o: ..\Source\Drive\JY901.h
